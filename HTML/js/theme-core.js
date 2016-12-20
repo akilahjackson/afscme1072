@@ -41,7 +41,7 @@
 
                 var defaults = {
 
-                    dottedOverlay: "none",
+                    dottedOverlay: "twoxtwo",
                     delay: 16000,
                     startwidth: 1170,
                     startheight: 500,
