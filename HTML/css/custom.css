@@ -231,3 +231,15 @@ h2.v-bg-box-shadow-text-40 {
     font-weight: normal;
     color:#3799ef;
 }
+
+ul#secondMenu.nav.nav-tabs {
+	padding: 0;
+}
+
+.fixed-header-on .header.fixed #secondMenu > li > a,
+
+header #secondMenu > li > a {
+	
+	padding: 10px 10px !important;
+	
+}
